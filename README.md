@@ -23,6 +23,7 @@
 
 ## Lista de requisitos
 
+
 ### 1. Teste o componente `<App.js />`
 
   - Teste se a página principal da Pokédex é renderizada ao carregar a aplicação no caminho de URL `/`.
